@@ -1,0 +1,493 @@
+"","GID_1","GID_0","COUNTRY","NAME_1","VARNAME_1","NL_NAME_1","TYPE_1","ENGTYPE_1","CC_1","HASC_1","ISO_1","n_pixels","n_non_na_pixels","prop_non_na_pixels","ntl_sum","date"
+"1","IND.1_1","IND","India","Andaman and Nicobar","Andaman & Nicobar Islands|Andama",NA,"Union Territor","Union Territory",NA,"IN.AN",NA,40747,40526,0.994576287824871,2938.46020507812,2012-01-19
+"2","IND.2_1","IND","India","Andhra Pradesh",NA,NA,"State","State",NA,"IN.AP","IN-AP",784307,784221,0.999890349059743,393656.3125,2012-01-19
+"3","IND.3_1","IND","India","Arunachal Pradesh","Agence de la Frontière du Nord-E",NA,"State","State",NA,"IN.AR","IN-AR",79829,79829,1,5526.77001953125,2012-01-19
+"4","Z07.3_1","Z07","India","Arunachal Pradesh","Agence de la Frontière du Nord-E",NA,"State","State",NA,"IN.AR",NA,358232,358190,0.999882757542598,9531.4677734375,2012-01-19
+"5","IND.4_1","IND","India","Assam",NA,NA,"State","State",NA,"IN.AS","IN-AS",413093,413089,0.99999031695042,188560.25,2012-01-19
+"6","IND.5_1","IND","India","Bihar",NA,NA,"State","State",NA,"IN.BR","IN-BR",491972,491972,1,189780.4375,2012-01-19
+"7","IND.6_1","IND","India","Chandigarh",NA,NA,"Union Territor","Union Territory",NA,"IN.CH","IN-CH",715,715,1,12749.59375,2012-01-19
+"8","IND.7_1","IND","India","Chhattisgarh",NA,NA,"State","State",NA,"IN.CT","IN-CT",683434,683434,1,329670.0625,2012-01-19
+"9","IND.8_1","IND","India","Dadra and Nagar Haveli","DAdra et Nagar Haveli|Dadra e Na",NA,"Union Territor","Union Territory",NA,"IN.DN","IN-DN",2707,2707,1,9035.375,2012-01-19
+"10","IND.9_1","IND","India","Daman and Diu",NA,NA,"Union Territor","Union Territory",NA,"IN.DD",NA,517,517,1,4016.78955078125,2012-01-19
+"11","IND.10_1","IND","India","Goa","Gôa",NA,"State","State",NA,"IN.GA","IN-GA",18511,18511,1,26613.685546875,2012-01-19
+"12","IND.11_1","IND","India","Gujarat","Goudjerate|Gujerat|Gujerate",NA,"State","State",NA,"IN.GJ","IN-GJ",948438,943549,0.994845208648325,699597.125,2012-01-19
+"13","IND.12_1","IND","India","Haryana",NA,NA,"State","State",NA,"IN.HR","IN-HR",238563,238563,1,391111.65625,2012-01-19
+"14","IND.13_1","IND","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP","IN-HP",305442,305379,0.99979374152867,76887.0078125,2012-01-19
+"15","Z04.13_1","Z04","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP",NA,1867,1867,1,71.1904678344727,2012-01-19
+"16","Z09.13_1","Z09","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP",NA,667,667,1,27.2795600891113,2012-01-19
+"17","Z01.14_1","Z01","India","Jammu and Kashmir",NA,NA,"State","State",NA,"IN.JK",NA,587631,587117,0.999125301422151,165045.0625,2012-01-19
+"18","IND.15_1","IND","India","Jharkhand","Vananchal",NA,"State","State",NA,"IN.JH","IN-JH",411998,411998,1,235727.171875,2012-01-19
+"19","IND.16_1","IND","India","Karnataka","Maisur|Mysore",NA,"State","State",NA,"IN.KA","IN-KA",931411,931407,0.999995705440455,734818.75,2012-01-19
+"20","IND.17_1","IND","India","Kerala",NA,NA,"State","State",NA,"IN.KL","IN-KL",182580,182560,0.999890458976887,98904.4453125,2012-01-19
+"21","IND.18_1","IND","India","Lakshadweep","Íles Laquedives|Laccadive|Minico",NA,"Union Territor","Union Territory",NA,"IN.LD","IN-LD",386,373,0.966321243523316,127.06591796875,2012-01-19
+"22","IND.19_1","IND","India","Madhya Pradesh",NA,NA,"State","State",NA,"IN.MP","IN-MP",1578698,1578697,0.999999366566626,628204.6875,2012-01-19
+"23","IND.20_1","IND","India","Maharashtra",NA,NA,"State","State",NA,"IN.MH","IN-MH",1530770,1530741,0.999981055285902,1031029.8125,2012-01-19
+"24","IND.21_1","IND","India","Manipur",NA,NA,"State","State",NA,"IN.MN","IN-MN",115951,115951,1,3431.07495117188,2012-01-19
+"25","IND.22_1","IND","India","Meghalaya",NA,NA,"State","State",NA,"IN.ML","IN-ML",118207,118207,1,22794.267578125,2012-01-19
+"26","IND.23_1","IND","India","Mizoram",NA,NA,"State","State",NA,"IN.MZ","IN-MZ",109462,109462,1,3279.287109375,2012-01-19
+"27","IND.24_1","IND","India","Nagaland",NA,NA,"State","State",NA,"IN.NL","IN-NL",87563,87563,1,10106.900390625,2012-01-19
+"28","IND.25_1","IND","India","NCT of Delhi",NA,NA,"Union Territor","Union Territory",NA,"IN.DL",NA,8295,8295,1,242391.484375,2012-01-19
+"29","IND.26_1","IND","India","Odisha",NA,NA,"State","State",NA,"IN.OR","IN-OR",781638,779223,0.996910334451498,344940.15625,2012-01-19
+"30","IND.27_1","IND","India","Puducherry","Pondicherry|Puduchcheri|Pondiché",NA,"Union Territor","Union Territory",NA,"IN.PY","IN-PY",3136,3136,1,9614.2177734375,2012-01-19
+"31","IND.28_1","IND","India","Punjab",NA,NA,"State","State",NA,"IN.PB","IN-PB",275246,275246,1,406058.34375,2012-01-19
+"32","IND.29_1","IND","India","Rajasthan","Greater Rajasthan|Rajputana",NA,"State","State",NA,"IN.RJ","IN-RJ",1792156,1792156,1,907120.25,2012-01-19
+"33","IND.30_1","IND","India","Sikkim",NA,NA,"State","State",NA,"IN.SK","IN-SK",37908,37641,0.992956631845521,8249.83984375,2012-01-19
+"34","IND.31_1","IND","India","Tamil Nadu","Madras|Tamilnad",NA,"State","State",NA,"IN.TN","IN-TN",625500,625412,0.99985931254996,647359.125,2012-01-19
+"35","IND.32_1","IND","India","Telangana",NA,NA,"State","State",NA,"IN.TG","IN-TG",566486,566486,1,503304.3125,2012-01-19
+"36","IND.33_1","IND","India","Tripura",NA,NA,"State","State",NA,"IN.TR","IN-TR",54962,54962,1,33123.2421875,2012-01-19
+"37","IND.34_1","IND","India","Uttar Pradesh","United Provinces",NA,"State","State",NA,"IN.UP","IN-UP",1268269,1268269,1,1206751.625,2012-01-19
+"38","IND.35_1","IND","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT","IN-UT",285617,284889,0.997451132110484,152595.078125,2012-01-19
+"39","Z05.35_1","Z05","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT",NA,1568,1568,1,69.9747085571289,2012-01-19
+"40","Z09.35_1","Z09","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT",NA,5589,5589,1,104.156562805176,2012-01-19
+"41","IND.36_1","IND","India","West Bengal","Bangla|Bengala Occidentale|Benga",NA,"State","State",NA,"IN.WB","IN-WB",445183,445181,0.999995507465469,504715.96875,2012-01-19
+"42","IND.1_1","IND","India","Andaman and Nicobar","Andaman & Nicobar Islands|Andama",NA,"Union Territor","Union Territory",NA,"IN.AN",NA,40747,40533,0.994748079613223,3089.296875,2013-01-19
+"43","IND.2_1","IND","India","Andhra Pradesh",NA,NA,"State","State",NA,"IN.AP","IN-AP",784307,784198,0.999861023808279,360345.71875,2013-01-19
+"44","IND.3_1","IND","India","Arunachal Pradesh","Agence de la Frontière du Nord-E",NA,"State","State",NA,"IN.AR","IN-AR",79829,79829,1,5306.03955078125,2013-01-19
+"45","Z07.3_1","Z07","India","Arunachal Pradesh","Agence de la Frontière du Nord-E",NA,"State","State",NA,"IN.AR",NA,358232,358226,0.999983251077514,4984.78955078125,2013-01-19
+"46","IND.4_1","IND","India","Assam",NA,NA,"State","State",NA,"IN.AS","IN-AS",413093,413093,1,179864.9375,2013-01-19
+"47","IND.5_1","IND","India","Bihar",NA,NA,"State","State",NA,"IN.BR","IN-BR",491972,491972,1,174662.609375,2013-01-19
+"48","IND.6_1","IND","India","Chandigarh",NA,NA,"Union Territor","Union Territory",NA,"IN.CH","IN-CH",715,715,1,12840.736328125,2013-01-19
+"49","IND.7_1","IND","India","Chhattisgarh",NA,NA,"State","State",NA,"IN.CT","IN-CT",683434,683434,1,347165,2013-01-19
+"50","IND.8_1","IND","India","Dadra and Nagar Haveli","DAdra et Nagar Haveli|Dadra e Na",NA,"Union Territor","Union Territory",NA,"IN.DN","IN-DN",2707,2707,1,10061.419921875,2013-01-19
+"51","IND.9_1","IND","India","Daman and Diu",NA,NA,"Union Territor","Union Territory",NA,"IN.DD",NA,517,517,1,4210.22314453125,2013-01-19
+"52","IND.10_1","IND","India","Goa","Gôa",NA,"State","State",NA,"IN.GA","IN-GA",18511,18511,1,28172.673828125,2013-01-19
+"53","IND.11_1","IND","India","Gujarat","Goudjerate|Gujerat|Gujerate",NA,"State","State",NA,"IN.GJ","IN-GJ",948438,943669,0.994971732469597,647683.0625,2013-01-19
+"54","IND.12_1","IND","India","Haryana",NA,NA,"State","State",NA,"IN.HR","IN-HR",238563,238563,1,469774.6875,2013-01-19
+"55","IND.13_1","IND","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP","IN-HP",305442,305401,0.999865768296436,54618.92578125,2013-01-19
+"56","Z04.13_1","Z04","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP",NA,1867,1864,0.998393144081414,44.6405029296875,2013-01-19
+"57","Z09.13_1","Z09","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP",NA,667,667,1,0.5,2013-01-19
+"58","Z01.14_1","Z01","India","Jammu and Kashmir",NA,NA,"State","State",NA,"IN.JK",NA,587631,586398,0.997901744462086,149139.71875,2013-01-19
+"59","IND.15_1","IND","India","Jharkhand","Vananchal",NA,"State","State",NA,"IN.JH","IN-JH",411998,411998,1,253549.15625,2013-01-19
+"60","IND.16_1","IND","India","Karnataka","Maisur|Mysore",NA,"State","State",NA,"IN.KA","IN-KA",931411,931408,0.999996779080342,674227.5,2013-01-19
+"61","IND.17_1","IND","India","Kerala",NA,NA,"State","State",NA,"IN.KL","IN-KL",182580,182561,0.999895936028042,95517.6328125,2013-01-19
+"62","IND.18_1","IND","India","Lakshadweep","Íles Laquedives|Laccadive|Minico",NA,"Union Territor","Union Territory",NA,"IN.LD","IN-LD",386,363,0.940414507772021,119.804542541504,2013-01-19
+"63","IND.19_1","IND","India","Madhya Pradesh",NA,NA,"State","State",NA,"IN.MP","IN-MP",1578698,1578698,1,677453.5625,2013-01-19
+"64","IND.20_1","IND","India","Maharashtra",NA,NA,"State","State",NA,"IN.MH","IN-MH",1530770,1530749,0.999986281413929,940457.6875,2013-01-19
+"65","IND.21_1","IND","India","Manipur",NA,NA,"State","State",NA,"IN.MN","IN-MN",115951,115951,1,4960.50244140625,2013-01-19
+"66","IND.22_1","IND","India","Meghalaya",NA,NA,"State","State",NA,"IN.ML","IN-ML",118207,118207,1,24004.95703125,2013-01-19
+"67","IND.23_1","IND","India","Mizoram",NA,NA,"State","State",NA,"IN.MZ","IN-MZ",109462,109462,1,3377.11547851562,2013-01-19
+"68","IND.24_1","IND","India","Nagaland",NA,NA,"State","State",NA,"IN.NL","IN-NL",87563,87563,1,9940.908203125,2013-01-19
+"69","IND.25_1","IND","India","NCT of Delhi",NA,NA,"Union Territor","Union Territory",NA,"IN.DL",NA,8295,8295,1,252822.796875,2013-01-19
+"70","IND.26_1","IND","India","Odisha",NA,NA,"State","State",NA,"IN.OR","IN-OR",781638,779283,0.996987096328479,348911.3125,2013-01-19
+"71","IND.27_1","IND","India","Puducherry","Pondicherry|Puduchcheri|Pondiché",NA,"Union Territor","Union Territory",NA,"IN.PY","IN-PY",3136,3136,1,9968.22265625,2013-01-19
+"72","IND.28_1","IND","India","Punjab",NA,NA,"State","State",NA,"IN.PB","IN-PB",275246,275246,1,434336.4375,2013-01-19
+"73","IND.29_1","IND","India","Rajasthan","Greater Rajasthan|Rajputana",NA,"State","State",NA,"IN.RJ","IN-RJ",1792156,1792156,1,889638.9375,2013-01-19
+"74","IND.30_1","IND","India","Sikkim",NA,NA,"State","State",NA,"IN.SK","IN-SK",37908,37590,0.991611269389047,7222.91943359375,2013-01-19
+"75","IND.31_1","IND","India","Tamil Nadu","Madras|Tamilnad",NA,"State","State",NA,"IN.TN","IN-TN",625500,625414,0.999862509992006,644206.9375,2013-01-19
+"76","IND.32_1","IND","India","Telangana",NA,NA,"State","State",NA,"IN.TG","IN-TG",566486,566486,1,489869.125,2013-01-19
+"77","IND.33_1","IND","India","Tripura",NA,NA,"State","State",NA,"IN.TR","IN-TR",54962,54962,1,35516.96875,2013-01-19
+"78","IND.34_1","IND","India","Uttar Pradesh","United Provinces",NA,"State","State",NA,"IN.UP","IN-UP",1268269,1268269,1,1165377.75,2013-01-19
+"79","IND.35_1","IND","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT","IN-UT",285617,284912,0.99753165953007,134539.484375,2013-01-19
+"80","Z05.35_1","Z05","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT",NA,1568,1568,1,0,2013-01-19
+"81","Z09.35_1","Z09","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT",NA,5589,5589,1,2.50185585021973,2013-01-19
+"82","IND.36_1","IND","India","West Bengal","Bangla|Bengala Occidentale|Benga",NA,"State","State",NA,"IN.WB","IN-WB",445183,445181,0.999995507465469,518444.625,2013-01-19
+"83","IND.1_1","IND","India","Andaman and Nicobar","Andaman & Nicobar Islands|Andama",NA,"Union Territor","Union Territory",NA,"IN.AN",NA,40747,40532,0.994723537929173,3455.21533203125,2014-01-19
+"84","IND.2_1","IND","India","Andhra Pradesh",NA,NA,"State","State",NA,"IN.AP","IN-AP",784307,784241,0.999915849278408,423416.53125,2014-01-19
+"85","IND.3_1","IND","India","Arunachal Pradesh","Agence de la Frontière du Nord-E",NA,"State","State",NA,"IN.AR","IN-AR",79829,79829,1,4879.95068359375,2014-01-19
+"86","Z07.3_1","Z07","India","Arunachal Pradesh","Agence de la Frontière du Nord-E",NA,"State","State",NA,"IN.AR",NA,358232,358224,0.999977668103352,6929.72265625,2014-01-19
+"87","IND.4_1","IND","India","Assam",NA,NA,"State","State",NA,"IN.AS","IN-AS",413093,413093,1,239659.46875,2014-01-19
+"88","IND.5_1","IND","India","Bihar",NA,NA,"State","State",NA,"IN.BR","IN-BR",491972,491972,1,314598.09375,2014-01-19
+"89","IND.6_1","IND","India","Chandigarh",NA,NA,"Union Territor","Union Territory",NA,"IN.CH","IN-CH",715,715,1,13736.6357421875,2014-01-19
+"90","IND.7_1","IND","India","Chhattisgarh",NA,NA,"State","State",NA,"IN.CT","IN-CT",683434,683434,1,394821.25,2014-01-19
+"91","IND.8_1","IND","India","Dadra and Nagar Haveli","DAdra et Nagar Haveli|Dadra e Na",NA,"Union Territor","Union Territory",NA,"IN.DN","IN-DN",2707,2707,1,9995.7001953125,2014-01-19
+"92","IND.9_1","IND","India","Daman and Diu",NA,NA,"Union Territor","Union Territory",NA,"IN.DD",NA,517,517,1,3988.0751953125,2014-01-19
+"93","IND.10_1","IND","India","Goa","Gôa",NA,"State","State",NA,"IN.GA","IN-GA",18511,18511,1,27461.27734375,2014-01-19
+"94","IND.11_1","IND","India","Gujarat","Goudjerate|Gujerat|Gujerate",NA,"State","State",NA,"IN.GJ","IN-GJ",948438,943884,0.99519842098271,765016.3125,2014-01-19
+"95","IND.12_1","IND","India","Haryana",NA,NA,"State","State",NA,"IN.HR","IN-HR",238563,238563,1,517798.40625,2014-01-19
+"96","IND.13_1","IND","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP","IN-HP",305442,305238,0.999332115426169,68422.3359375,2014-01-19
+"97","Z04.13_1","Z04","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP",NA,1867,1867,1,69.5056304931641,2014-01-19
+"98","Z09.13_1","Z09","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP",NA,667,667,1,4.30570793151855,2014-01-19
+"99","Z01.14_1","Z01","India","Jammu and Kashmir",NA,NA,"State","State",NA,"IN.JK",NA,587631,586622,0.998282936060215,159793.859375,2014-01-19
+"100","IND.15_1","IND","India","Jharkhand","Vananchal",NA,"State","State",NA,"IN.JH","IN-JH",411998,411998,1,279968,2014-01-19
+"101","IND.16_1","IND","India","Karnataka","Maisur|Mysore",NA,"State","State",NA,"IN.KA","IN-KA",931411,931407,0.999995705440455,764236,2014-01-19
+"102","IND.17_1","IND","India","Kerala",NA,NA,"State","State",NA,"IN.KL","IN-KL",182580,182570,0.999945229488443,101347.90625,2014-01-19
+"103","IND.18_1","IND","India","Lakshadweep","Íles Laquedives|Laccadive|Minico",NA,"Union Territor","Union Territory",NA,"IN.LD","IN-LD",386,373,0.966321243523316,117.367057800293,2014-01-19
+"104","IND.19_1","IND","India","Madhya Pradesh",NA,NA,"State","State",NA,"IN.MP","IN-MP",1578698,1578697,0.999999366566626,809548.375,2014-01-19
+"105","IND.20_1","IND","India","Maharashtra",NA,NA,"State","State",NA,"IN.MH","IN-MH",1530770,1530746,0.999984321615919,1027412.8125,2014-01-19
+"106","IND.21_1","IND","India","Manipur",NA,NA,"State","State",NA,"IN.MN","IN-MN",115951,115951,1,7726.982421875,2014-01-19
+"107","IND.22_1","IND","India","Meghalaya",NA,NA,"State","State",NA,"IN.ML","IN-ML",118207,118207,1,27499.75,2014-01-19
+"108","IND.23_1","IND","India","Mizoram",NA,NA,"State","State",NA,"IN.MZ","IN-MZ",109462,109462,1,4233.052734375,2014-01-19
+"109","IND.24_1","IND","India","Nagaland",NA,NA,"State","State",NA,"IN.NL","IN-NL",87563,87563,1,14804.9248046875,2014-01-19
+"110","IND.25_1","IND","India","NCT of Delhi",NA,NA,"Union Territor","Union Territory",NA,"IN.DL",NA,8295,8295,1,270037.625,2014-01-19
+"111","IND.26_1","IND","India","Odisha",NA,NA,"State","State",NA,"IN.OR","IN-OR",781638,779281,0.996984537599247,423708.28125,2014-01-19
+"112","IND.27_1","IND","India","Puducherry","Pondicherry|Puduchcheri|Pondiché",NA,"Union Territor","Union Territory",NA,"IN.PY","IN-PY",3136,3136,1,9948.5576171875,2014-01-19
+"113","IND.28_1","IND","India","Punjab",NA,NA,"State","State",NA,"IN.PB","IN-PB",275246,275246,1,438643.25,2014-01-19
+"114","IND.29_1","IND","India","Rajasthan","Greater Rajasthan|Rajputana",NA,"State","State",NA,"IN.RJ","IN-RJ",1792156,1792156,1,1075784,2014-01-19
+"115","IND.30_1","IND","India","Sikkim",NA,NA,"State","State",NA,"IN.SK","IN-SK",37908,37692,0.994301994301994,7766.73583984375,2014-01-19
+"116","IND.31_1","IND","India","Tamil Nadu","Madras|Tamilnad",NA,"State","State",NA,"IN.TN","IN-TN",625500,625419,0.999870503597122,725702.25,2014-01-19
+"117","IND.32_1","IND","India","Telangana",NA,NA,"State","State",NA,"IN.TG","IN-TG",566486,566486,1,535541.6875,2014-01-19
+"118","IND.33_1","IND","India","Tripura",NA,NA,"State","State",NA,"IN.TR","IN-TR",54962,54962,1,42239.12109375,2014-01-19
+"119","IND.34_1","IND","India","Uttar Pradesh","United Provinces",NA,"State","State",NA,"IN.UP","IN-UP",1268269,1268269,1,1403249.625,2014-01-19
+"120","IND.35_1","IND","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT","IN-UT",285617,285028,0.997937797820158,147398.234375,2014-01-19
+"121","Z05.35_1","Z05","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT",NA,1568,1568,1,0.680789828300476,2014-01-19
+"122","Z09.35_1","Z09","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT",NA,5589,5589,1,9.868332862854,2014-01-19
+"123","IND.36_1","IND","India","West Bengal","Bangla|Bengala Occidentale|Benga",NA,"State","State",NA,"IN.WB","IN-WB",445183,445182,0.999997753732735,590858.4375,2014-01-19
+"124","IND.1_1","IND","India","Andaman and Nicobar","Andaman & Nicobar Islands|Andama",NA,"Union Territor","Union Territory",NA,"IN.AN",NA,40747,40529,0.994649912877022,3162.19506835938,2015-01-19
+"125","IND.2_1","IND","India","Andhra Pradesh",NA,NA,"State","State",NA,"IN.AP","IN-AP",784307,784239,0.999913299256541,438082.65625,2015-01-19
+"126","IND.3_1","IND","India","Arunachal Pradesh","Agence de la Frontière du Nord-E",NA,"State","State",NA,"IN.AR","IN-AR",79829,79829,1,4023.99389648438,2015-01-19
+"127","Z07.3_1","Z07","India","Arunachal Pradesh","Agence de la Frontière du Nord-E",NA,"State","State",NA,"IN.AR",NA,358232,358232,1,7442.07177734375,2015-01-19
+"128","IND.4_1","IND","India","Assam",NA,NA,"State","State",NA,"IN.AS","IN-AS",413093,413093,1,263255.15625,2015-01-19
+"129","IND.5_1","IND","India","Bihar",NA,NA,"State","State",NA,"IN.BR","IN-BR",491972,491972,1,405187.09375,2015-01-19
+"130","IND.6_1","IND","India","Chandigarh",NA,NA,"Union Territor","Union Territory",NA,"IN.CH","IN-CH",715,715,1,14106.3193359375,2015-01-19
+"131","IND.7_1","IND","India","Chhattisgarh",NA,NA,"State","State",NA,"IN.CT","IN-CT",683434,683434,1,411545.03125,2015-01-19
+"132","IND.8_1","IND","India","Dadra and Nagar Haveli","DAdra et Nagar Haveli|Dadra e Na",NA,"Union Territor","Union Territory",NA,"IN.DN","IN-DN",2707,2707,1,9903.9052734375,2015-01-19
+"133","IND.9_1","IND","India","Daman and Diu",NA,NA,"Union Territor","Union Territory",NA,"IN.DD",NA,517,517,1,4177.23046875,2015-01-19
+"134","IND.10_1","IND","India","Goa","Gôa",NA,"State","State",NA,"IN.GA","IN-GA",18511,18511,1,27855.873046875,2015-01-19
+"135","IND.11_1","IND","India","Gujarat","Goudjerate|Gujerat|Gujerate",NA,"State","State",NA,"IN.GJ","IN-GJ",948438,943859,0.995172061853279,802619.5625,2015-01-19
+"136","IND.12_1","IND","India","Haryana",NA,NA,"State","State",NA,"IN.HR","IN-HR",238563,238563,1,428374.21875,2015-01-19
+"137","IND.13_1","IND","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP","IN-HP",305442,305387,0.999819933080585,57752.046875,2015-01-19
+"138","Z04.13_1","Z04","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP",NA,1867,1866,0.999464381360471,40.651798248291,2015-01-19
+"139","Z09.13_1","Z09","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP",NA,667,667,1,7.20856189727783,2015-01-19
+"140","Z01.14_1","Z01","India","Jammu and Kashmir",NA,NA,"State","State",NA,"IN.JK",NA,587631,586952,0.998844512968172,148704.171875,2015-01-19
+"141","IND.15_1","IND","India","Jharkhand","Vananchal",NA,"State","State",NA,"IN.JH","IN-JH",411998,411998,1,303976.34375,2015-01-19
+"142","IND.16_1","IND","India","Karnataka","Maisur|Mysore",NA,"State","State",NA,"IN.KA","IN-KA",931411,931409,0.999997852720228,816409.1875,2015-01-19
+"143","IND.17_1","IND","India","Kerala",NA,NA,"State","State",NA,"IN.KL","IN-KL",182580,182566,0.999923321283821,111432.84375,2015-01-19
+"144","IND.18_1","IND","India","Lakshadweep","Íles Laquedives|Laccadive|Minico",NA,"Union Territor","Union Territory",NA,"IN.LD","IN-LD",386,373,0.966321243523316,122.804832458496,2015-01-19
+"145","IND.19_1","IND","India","Madhya Pradesh",NA,NA,"State","State",NA,"IN.MP","IN-MP",1578698,1578697,0.999999366566626,785352.0625,2015-01-19
+"146","IND.20_1","IND","India","Maharashtra",NA,NA,"State","State",NA,"IN.MH","IN-MH",1530770,1530742,0.999981708551905,1100359,2015-01-19
+"147","IND.21_1","IND","India","Manipur",NA,NA,"State","State",NA,"IN.MN","IN-MN",115951,115951,1,7095.5322265625,2015-01-19
+"148","IND.22_1","IND","India","Meghalaya",NA,NA,"State","State",NA,"IN.ML","IN-ML",118207,118207,1,34166.484375,2015-01-19
+"149","IND.23_1","IND","India","Mizoram",NA,NA,"State","State",NA,"IN.MZ","IN-MZ",109462,109462,1,4362.474609375,2015-01-19
+"150","IND.24_1","IND","India","Nagaland",NA,NA,"State","State",NA,"IN.NL","IN-NL",87563,87563,1,15003.7353515625,2015-01-19
+"151","IND.25_1","IND","India","NCT of Delhi",NA,NA,"Union Territor","Union Territory",NA,"IN.DL",NA,8295,8295,1,267912.84375,2015-01-19
+"152","IND.26_1","IND","India","Odisha",NA,NA,"State","State",NA,"IN.OR","IN-OR",781638,779261,0.99695895030692,444590.90625,2015-01-19
+"153","IND.27_1","IND","India","Puducherry","Pondicherry|Puduchcheri|Pondiché",NA,"Union Territor","Union Territory",NA,"IN.PY","IN-PY",3136,3136,1,9806.5234375,2015-01-19
+"154","IND.28_1","IND","India","Punjab",NA,NA,"State","State",NA,"IN.PB","IN-PB",275246,275246,1,414915.4375,2015-01-19
+"155","IND.29_1","IND","India","Rajasthan","Greater Rajasthan|Rajputana",NA,"State","State",NA,"IN.RJ","IN-RJ",1792156,1792156,1,1068710.25,2015-01-19
+"156","IND.30_1","IND","India","Sikkim",NA,NA,"State","State",NA,"IN.SK","IN-SK",37908,37519,0.989738313812388,7324.3203125,2015-01-19
+"157","IND.31_1","IND","India","Tamil Nadu","Madras|Tamilnad",NA,"State","State",NA,"IN.TN","IN-TN",625500,625425,0.999880095923261,739620.875,2015-01-19
+"158","IND.32_1","IND","India","Telangana",NA,NA,"State","State",NA,"IN.TG","IN-TG",566486,566486,1,553463.125,2015-01-19
+"159","IND.33_1","IND","India","Tripura",NA,NA,"State","State",NA,"IN.TR","IN-TR",54962,54962,1,43508.59375,2015-01-19
+"160","IND.34_1","IND","India","Uttar Pradesh","United Provinces",NA,"State","State",NA,"IN.UP","IN-UP",1268269,1268269,1,1366555.25,2015-01-19
+"161","IND.35_1","IND","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT","IN-UT",285617,285140,0.998329931341622,142667.28125,2015-01-19
+"162","Z05.35_1","Z05","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT",NA,1568,1568,1,1.3617103099823,2015-01-19
+"163","Z09.35_1","Z09","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT",NA,5589,5589,1,4.48759126663208,2015-01-19
+"164","IND.36_1","IND","India","West Bengal","Bangla|Bengala Occidentale|Benga",NA,"State","State",NA,"IN.WB","IN-WB",445183,445181,0.999995507465469,624750,2015-01-19
+"165","IND.1_1","IND","India","Andaman and Nicobar","Andaman & Nicobar Islands|Andama",NA,"Union Territor","Union Territory",NA,"IN.AN",NA,40747,40533,0.994748079613223,3165.423828125,2016-01-19
+"166","IND.2_1","IND","India","Andhra Pradesh",NA,NA,"State","State",NA,"IN.AP","IN-AP",784307,784240,0.999914574267474,395831,2016-01-19
+"167","IND.3_1","IND","India","Arunachal Pradesh","Agence de la Frontière du Nord-E",NA,"State","State",NA,"IN.AR","IN-AR",79829,79829,1,2830.29443359375,2016-01-19
+"168","Z07.3_1","Z07","India","Arunachal Pradesh","Agence de la Frontière du Nord-E",NA,"State","State",NA,"IN.AR",NA,358232,358230,0.999994417025838,5764.72021484375,2016-01-19
+"169","IND.4_1","IND","India","Assam",NA,NA,"State","State",NA,"IN.AS","IN-AS",413093,413093,1,225036.828125,2016-01-19
+"170","IND.5_1","IND","India","Bihar",NA,NA,"State","State",NA,"IN.BR","IN-BR",491972,491972,1,456406.28125,2016-01-19
+"171","IND.6_1","IND","India","Chandigarh",NA,NA,"Union Territor","Union Territory",NA,"IN.CH","IN-CH",715,715,1,14486.23828125,2016-01-19
+"172","IND.7_1","IND","India","Chhattisgarh",NA,NA,"State","State",NA,"IN.CT","IN-CT",683434,683434,1,368148.0625,2016-01-19
+"173","IND.8_1","IND","India","Dadra and Nagar Haveli","DAdra et Nagar Haveli|Dadra e Na",NA,"Union Territor","Union Territory",NA,"IN.DN","IN-DN",2707,2707,1,10187.9814453125,2016-01-19
+"174","IND.9_1","IND","India","Daman and Diu",NA,NA,"Union Territor","Union Territory",NA,"IN.DD",NA,517,517,1,4347.5751953125,2016-01-19
+"175","IND.10_1","IND","India","Goa","Gôa",NA,"State","State",NA,"IN.GA","IN-GA",18511,18511,1,27472.388671875,2016-01-19
+"176","IND.11_1","IND","India","Gujarat","Goudjerate|Gujerat|Gujerate",NA,"State","State",NA,"IN.GJ","IN-GJ",948438,943860,0.995173116218456,787392.25,2016-01-19
+"177","IND.12_1","IND","India","Haryana",NA,NA,"State","State",NA,"IN.HR","IN-HR",238563,238563,1,409779.6875,2016-01-19
+"178","IND.13_1","IND","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP","IN-HP",305442,305431,0.999963986616117,49158.3125,2016-01-19
+"179","Z04.13_1","Z04","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP",NA,1867,1867,1,18.0893249511719,2016-01-19
+"180","Z09.13_1","Z09","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP",NA,667,667,1,0,2016-01-19
+"181","Z01.14_1","Z01","India","Jammu and Kashmir",NA,NA,"State","State",NA,"IN.JK",NA,587631,587612,0.999967666784087,144329.578125,2016-01-19
+"182","IND.15_1","IND","India","Jharkhand","Vananchal",NA,"State","State",NA,"IN.JH","IN-JH",411998,411998,1,303410.75,2016-01-19
+"183","IND.16_1","IND","India","Karnataka","Maisur|Mysore",NA,"State","State",NA,"IN.KA","IN-KA",931411,931409,0.999997852720228,794337.75,2016-01-19
+"184","IND.17_1","IND","India","Kerala",NA,NA,"State","State",NA,"IN.KL","IN-KL",182580,182569,0.999939752437288,118450.0234375,2016-01-19
+"185","IND.18_1","IND","India","Lakshadweep","Íles Laquedives|Laccadive|Minico",NA,"Union Territor","Union Territory",NA,"IN.LD","IN-LD",386,373,0.966321243523316,116.566665649414,2016-01-19
+"186","IND.19_1","IND","India","Madhya Pradesh",NA,NA,"State","State",NA,"IN.MP","IN-MP",1578698,1578696,0.999998733133253,798386.875,2016-01-19
+"187","IND.20_1","IND","India","Maharashtra",NA,NA,"State","State",NA,"IN.MH","IN-MH",1530770,1530744,0.999983015083912,1115344.75,2016-01-19
+"188","IND.21_1","IND","India","Manipur",NA,NA,"State","State",NA,"IN.MN","IN-MN",115951,115951,1,13533.7509765625,2016-01-19
+"189","IND.22_1","IND","India","Meghalaya",NA,NA,"State","State",NA,"IN.ML","IN-ML",118207,118207,1,28604.005859375,2016-01-19
+"190","IND.23_1","IND","India","Mizoram",NA,NA,"State","State",NA,"IN.MZ","IN-MZ",109462,109462,1,3628.42602539062,2016-01-19
+"191","IND.24_1","IND","India","Nagaland",NA,NA,"State","State",NA,"IN.NL","IN-NL",87563,87563,1,11520.3916015625,2016-01-19
+"192","IND.25_1","IND","India","NCT of Delhi",NA,NA,"Union Territor","Union Territory",NA,"IN.DL",NA,8295,8295,1,246767.125,2016-01-19
+"193","IND.26_1","IND","India","Odisha",NA,NA,"State","State",NA,"IN.OR","IN-OR",781638,779288,0.996993493151561,398530.6875,2016-01-19
+"194","IND.27_1","IND","India","Puducherry","Pondicherry|Puduchcheri|Pondiché",NA,"Union Territor","Union Territory",NA,"IN.PY","IN-PY",3136,3136,1,9836.3076171875,2016-01-19
+"195","IND.28_1","IND","India","Punjab",NA,NA,"State","State",NA,"IN.PB","IN-PB",275246,275246,1,416861.71875,2016-01-19
+"196","IND.29_1","IND","India","Rajasthan","Greater Rajasthan|Rajputana",NA,"State","State",NA,"IN.RJ","IN-RJ",1792156,1792156,1,1005113.9375,2016-01-19
+"197","IND.30_1","IND","India","Sikkim",NA,NA,"State","State",NA,"IN.SK","IN-SK",37908,37600,0.99187506594914,6002.75048828125,2016-01-19
+"198","IND.31_1","IND","India","Tamil Nadu","Madras|Tamilnad",NA,"State","State",NA,"IN.TN","IN-TN",625500,625421,0.999873701039169,733120.3125,2016-01-19
+"199","IND.32_1","IND","India","Telangana",NA,NA,"State","State",NA,"IN.TG","IN-TG",566486,566486,1,523715.125,2016-01-19
+"200","IND.33_1","IND","India","Tripura",NA,NA,"State","State",NA,"IN.TR","IN-TR",54962,54962,1,38334.7578125,2016-01-19
+"201","IND.34_1","IND","India","Uttar Pradesh","United Provinces",NA,"State","State",NA,"IN.UP","IN-UP",1268269,1268269,1,1602459.25,2016-01-19
+"202","IND.35_1","IND","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT","IN-UT",285617,285242,0.998687052941527,131403.859375,2016-01-19
+"203","Z05.35_1","Z05","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT",NA,1568,1568,1,0.375581860542297,2016-01-19
+"204","Z09.35_1","Z09","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT",NA,5589,5589,1,0,2016-01-19
+"205","IND.36_1","IND","India","West Bengal","Bangla|Bengala Occidentale|Benga",NA,"State","State",NA,"IN.WB","IN-WB",445183,445181,0.999995507465469,596846.1875,2016-01-19
+"206","IND.1_1","IND","India","Andaman and Nicobar","Andaman & Nicobar Islands|Andama",NA,"Union Territor","Union Territory",NA,"IN.AN",NA,40747,40534,0.994772621297273,2798.478515625,2017-01-19
+"207","IND.2_1","IND","India","Andhra Pradesh",NA,NA,"State","State",NA,"IN.AP","IN-AP",784307,784243,0.999918399300274,410829.1875,2017-01-19
+"208","IND.3_1","IND","India","Arunachal Pradesh","Agence de la Frontière du Nord-E",NA,"State","State",NA,"IN.AR","IN-AR",79829,79829,1,3634.21948242188,2017-01-19
+"209","Z07.3_1","Z07","India","Arunachal Pradesh","Agence de la Frontière du Nord-E",NA,"State","State",NA,"IN.AR",NA,358232,358232,1,6243.2802734375,2017-01-19
+"210","IND.4_1","IND","India","Assam",NA,NA,"State","State",NA,"IN.AS","IN-AS",413093,413093,1,226820.15625,2017-01-19
+"211","IND.5_1","IND","India","Bihar",NA,NA,"State","State",NA,"IN.BR","IN-BR",491972,491972,1,501741.1875,2017-01-19
+"212","IND.6_1","IND","India","Chandigarh",NA,NA,"Union Territor","Union Territory",NA,"IN.CH","IN-CH",715,715,1,14430.984375,2017-01-19
+"213","IND.7_1","IND","India","Chhattisgarh",NA,NA,"State","State",NA,"IN.CT","IN-CT",683434,683434,1,376943.90625,2017-01-19
+"214","IND.8_1","IND","India","Dadra and Nagar Haveli","DAdra et Nagar Haveli|Dadra e Na",NA,"Union Territor","Union Territory",NA,"IN.DN","IN-DN",2707,2707,1,9777.53515625,2017-01-19
+"215","IND.9_1","IND","India","Daman and Diu",NA,NA,"Union Territor","Union Territory",NA,"IN.DD",NA,517,517,1,4256.60400390625,2017-01-19
+"216","IND.10_1","IND","India","Goa","Gôa",NA,"State","State",NA,"IN.GA","IN-GA",18511,18511,1,29198.162109375,2017-01-19
+"217","IND.11_1","IND","India","Gujarat","Goudjerate|Gujerat|Gujerate",NA,"State","State",NA,"IN.GJ","IN-GJ",948438,943835,0.995146757089024,825626.6875,2017-01-19
+"218","IND.12_1","IND","India","Haryana",NA,NA,"State","State",NA,"IN.HR","IN-HR",238563,238563,1,402904.84375,2017-01-19
+"219","IND.13_1","IND","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP","IN-HP",305442,305296,0.999522004177553,53963.984375,2017-01-19
+"220","Z04.13_1","Z04","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP",NA,1867,1867,1,25.9424304962158,2017-01-19
+"221","Z09.13_1","Z09","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP",NA,667,667,1,0.500262856483459,2017-01-19
+"222","Z01.14_1","Z01","India","Jammu and Kashmir",NA,NA,"State","State",NA,"IN.JK",NA,587631,587148,0.999178055616535,154212.390625,2017-01-19
+"223","IND.15_1","IND","India","Jharkhand","Vananchal",NA,"State","State",NA,"IN.JH","IN-JH",411998,411998,1,321810.03125,2017-01-19
+"224","IND.16_1","IND","India","Karnataka","Maisur|Mysore",NA,"State","State",NA,"IN.KA","IN-KA",931411,931409,0.999997852720228,831722.6875,2017-01-19
+"225","IND.17_1","IND","India","Kerala",NA,NA,"State","State",NA,"IN.KL","IN-KL",182580,182570,0.999945229488443,124299.96875,2017-01-19
+"226","IND.18_1","IND","India","Lakshadweep","Íles Laquedives|Laccadive|Minico",NA,"Union Territor","Union Territory",NA,"IN.LD","IN-LD",386,373,0.966321243523316,118.402099609375,2017-01-19
+"227","IND.19_1","IND","India","Madhya Pradesh",NA,NA,"State","State",NA,"IN.MP","IN-MP",1578698,1578696,0.999998733133253,900906.5625,2017-01-19
+"228","IND.20_1","IND","India","Maharashtra",NA,NA,"State","State",NA,"IN.MH","IN-MH",1530770,1530747,0.999984974881922,1190740.25,2017-01-19
+"229","IND.21_1","IND","India","Manipur",NA,NA,"State","State",NA,"IN.MN","IN-MN",115951,115951,1,17733.0859375,2017-01-19
+"230","IND.22_1","IND","India","Meghalaya",NA,NA,"State","State",NA,"IN.ML","IN-ML",118207,118207,1,27976.64453125,2017-01-19
+"231","IND.23_1","IND","India","Mizoram",NA,NA,"State","State",NA,"IN.MZ","IN-MZ",109462,109462,1,3673.63330078125,2017-01-19
+"232","IND.24_1","IND","India","Nagaland",NA,NA,"State","State",NA,"IN.NL","IN-NL",87563,87563,1,12792.1357421875,2017-01-19
+"233","IND.25_1","IND","India","NCT of Delhi",NA,NA,"Union Territor","Union Territory",NA,"IN.DL",NA,8295,8295,1,236710.546875,2017-01-19
+"234","IND.26_1","IND","India","Odisha",NA,NA,"State","State",NA,"IN.OR","IN-OR",781638,779303,0.997012683620807,407668.09375,2017-01-19
+"235","IND.27_1","IND","India","Puducherry","Pondicherry|Puduchcheri|Pondiché",NA,"Union Territor","Union Territory",NA,"IN.PY","IN-PY",3136,3136,1,9920.0634765625,2017-01-19
+"236","IND.28_1","IND","India","Punjab",NA,NA,"State","State",NA,"IN.PB","IN-PB",275246,275246,1,420009.5,2017-01-19
+"237","IND.29_1","IND","India","Rajasthan","Greater Rajasthan|Rajputana",NA,"State","State",NA,"IN.RJ","IN-RJ",1792156,1792156,1,962514.0625,2017-01-19
+"238","IND.30_1","IND","India","Sikkim",NA,NA,"State","State",NA,"IN.SK","IN-SK",37908,37557,0.990740740740741,5889.638671875,2017-01-19
+"239","IND.31_1","IND","India","Tamil Nadu","Madras|Tamilnad",NA,"State","State",NA,"IN.TN","IN-TN",625500,625424,0.999878497202238,729631.4375,2017-01-19
+"240","IND.32_1","IND","India","Telangana",NA,NA,"State","State",NA,"IN.TG","IN-TG",566486,566486,1,537081.4375,2017-01-19
+"241","IND.33_1","IND","India","Tripura",NA,NA,"State","State",NA,"IN.TR","IN-TR",54962,54962,1,39871.65625,2017-01-19
+"242","IND.34_1","IND","India","Uttar Pradesh","United Provinces",NA,"State","State",NA,"IN.UP","IN-UP",1268269,1268269,1,1905876.625,2017-01-19
+"243","IND.35_1","IND","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT","IN-UT",285617,284768,0.997027487859616,132106.328125,2017-01-19
+"244","Z05.35_1","Z05","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT",NA,1568,1568,1,0.0194932520389557,2017-01-19
+"245","Z09.35_1","Z09","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT",NA,5589,5589,1,1.5,2017-01-19
+"246","IND.36_1","IND","India","West Bengal","Bangla|Bengala Occidentale|Benga",NA,"State","State",NA,"IN.WB","IN-WB",445183,445181,0.999995507465469,619379.8125,2017-01-19
+"247","IND.1_1","IND","India","Andaman and Nicobar","Andaman & Nicobar Islands|Andama",NA,"Union Territor","Union Territory",NA,"IN.AN",NA,40747,40532,0.994723537929173,2900.03564453125,2018-01-19
+"248","IND.2_1","IND","India","Andhra Pradesh",NA,NA,"State","State",NA,"IN.AP","IN-AP",784307,784237,0.999910749234675,453990.375,2018-01-19
+"249","IND.3_1","IND","India","Arunachal Pradesh","Agence de la Frontière du Nord-E",NA,"State","State",NA,"IN.AR","IN-AR",79829,79824,0.999937366120082,3286.15600585938,2018-01-19
+"250","Z07.3_1","Z07","India","Arunachal Pradesh","Agence de la Frontière du Nord-E",NA,"State","State",NA,"IN.AR",NA,358232,358230,0.999994417025838,5717.5166015625,2018-01-19
+"251","IND.4_1","IND","India","Assam",NA,NA,"State","State",NA,"IN.AS","IN-AS",413093,413093,1,222026.625,2018-01-19
+"252","IND.5_1","IND","India","Bihar",NA,NA,"State","State",NA,"IN.BR","IN-BR",491972,491972,1,628664.125,2018-01-19
+"253","IND.6_1","IND","India","Chandigarh",NA,NA,"Union Territor","Union Territory",NA,"IN.CH","IN-CH",715,715,1,14200.2353515625,2018-01-19
+"254","IND.7_1","IND","India","Chhattisgarh",NA,NA,"State","State",NA,"IN.CT","IN-CT",683434,683434,1,398150.8125,2018-01-19
+"255","IND.8_1","IND","India","Dadra and Nagar Haveli","DAdra et Nagar Haveli|Dadra e Na",NA,"Union Territor","Union Territory",NA,"IN.DN","IN-DN",2707,2707,1,9366.1357421875,2018-01-19
+"256","IND.9_1","IND","India","Daman and Diu",NA,NA,"Union Territor","Union Territory",NA,"IN.DD",NA,517,517,1,3974.048828125,2018-01-19
+"257","IND.10_1","IND","India","Goa","Gôa",NA,"State","State",NA,"IN.GA","IN-GA",18511,18511,1,31232.896484375,2018-01-19
+"258","IND.11_1","IND","India","Gujarat","Goudjerate|Gujerat|Gujerate",NA,"State","State",NA,"IN.GJ","IN-GJ",948438,943868,0.995181551139874,868153.875,2018-01-19
+"259","IND.12_1","IND","India","Haryana",NA,NA,"State","State",NA,"IN.HR","IN-HR",238563,238563,1,431153.90625,2018-01-19
+"260","IND.13_1","IND","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP","IN-HP",305442,305271,0.999440155577818,50874.19140625,2018-01-19
+"261","Z04.13_1","Z04","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP",NA,1867,1867,1,12.071608543396,2018-01-19
+"262","Z09.13_1","Z09","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP",NA,667,667,1,0,2018-01-19
+"263","Z01.14_1","Z01","India","Jammu and Kashmir",NA,NA,"State","State",NA,"IN.JK",NA,587631,586921,0.998791758773788,142908.703125,2018-01-19
+"264","IND.15_1","IND","India","Jharkhand","Vananchal",NA,"State","State",NA,"IN.JH","IN-JH",411998,411998,1,343583.21875,2018-01-19
+"265","IND.16_1","IND","India","Karnataka","Maisur|Mysore",NA,"State","State",NA,"IN.KA","IN-KA",931411,931410,0.999998926360114,839760.5,2018-01-19
+"266","IND.17_1","IND","India","Kerala",NA,NA,"State","State",NA,"IN.KL","IN-KL",182580,182569,0.999939752437288,133830.609375,2018-01-19
+"267","IND.18_1","IND","India","Lakshadweep","Íles Laquedives|Laccadive|Minico",NA,"Union Territor","Union Territory",NA,"IN.LD","IN-LD",386,373,0.966321243523316,113.406867980957,2018-01-19
+"268","IND.19_1","IND","India","Madhya Pradesh",NA,NA,"State","State",NA,"IN.MP","IN-MP",1578698,1578697,0.999999366566626,932040.3125,2018-01-19
+"269","IND.20_1","IND","India","Maharashtra",NA,NA,"State","State",NA,"IN.MH","IN-MH",1530770,1530750,0.999986934679932,1231623.625,2018-01-19
+"270","IND.21_1","IND","India","Manipur",NA,NA,"State","State",NA,"IN.MN","IN-MN",115951,115951,1,19417.064453125,2018-01-19
+"271","IND.22_1","IND","India","Meghalaya",NA,NA,"State","State",NA,"IN.ML","IN-ML",118207,118207,1,33219.5546875,2018-01-19
+"272","IND.23_1","IND","India","Mizoram",NA,NA,"State","State",NA,"IN.MZ","IN-MZ",109462,109462,1,3683.41967773438,2018-01-19
+"273","IND.24_1","IND","India","Nagaland",NA,NA,"State","State",NA,"IN.NL","IN-NL",87563,87563,1,11982.5634765625,2018-01-19
+"274","IND.25_1","IND","India","NCT of Delhi",NA,NA,"Union Territor","Union Territory",NA,"IN.DL",NA,8295,8295,1,233407.828125,2018-01-19
+"275","IND.26_1","IND","India","Odisha",NA,NA,"State","State",NA,"IN.OR","IN-OR",781638,779282,0.996985816963863,434475.21875,2018-01-19
+"276","IND.27_1","IND","India","Puducherry","Pondicherry|Puduchcheri|Pondiché",NA,"Union Territor","Union Territory",NA,"IN.PY","IN-PY",3136,3136,1,9578.0205078125,2018-01-19
+"277","IND.28_1","IND","India","Punjab",NA,NA,"State","State",NA,"IN.PB","IN-PB",275246,275246,1,431398.28125,2018-01-19
+"278","IND.29_1","IND","India","Rajasthan","Greater Rajasthan|Rajputana",NA,"State","State",NA,"IN.RJ","IN-RJ",1792156,1792156,1,963696.375,2018-01-19
+"279","IND.30_1","IND","India","Sikkim",NA,NA,"State","State",NA,"IN.SK","IN-SK",37908,37767,0.996280468502691,5461.89306640625,2018-01-19
+"280","IND.31_1","IND","India","Tamil Nadu","Madras|Tamilnad",NA,"State","State",NA,"IN.TN","IN-TN",625500,625414,0.999862509992006,703417.5,2018-01-19
+"281","IND.32_1","IND","India","Telangana",NA,NA,"State","State",NA,"IN.TG","IN-TG",566486,566486,1,584722.625,2018-01-19
+"282","IND.33_1","IND","India","Tripura",NA,NA,"State","State",NA,"IN.TR","IN-TR",54962,54962,1,45749.80859375,2018-01-19
+"283","IND.34_1","IND","India","Uttar Pradesh","United Provinces",NA,"State","State",NA,"IN.UP","IN-UP",1268269,1268269,1,1871602.125,2018-01-19
+"284","IND.35_1","IND","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT","IN-UT",285617,284460,0.99594912067559,125158.6875,2018-01-19
+"285","Z05.35_1","Z05","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT",NA,1568,1568,1,0,2018-01-19
+"286","Z09.35_1","Z09","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT",NA,5589,5589,1,0,2018-01-19
+"287","IND.36_1","IND","India","West Bengal","Bangla|Bengala Occidentale|Benga",NA,"State","State",NA,"IN.WB","IN-WB",445183,445181,0.999995507465469,634793.5625,2018-01-19
+"288","IND.1_1","IND","India","Andaman and Nicobar","Andaman & Nicobar Islands|Andama",NA,"Union Territor","Union Territory",NA,"IN.AN",NA,40747,40530,0.994674454561072,3151.35668945312,2019-01-19
+"289","IND.2_1","IND","India","Andhra Pradesh",NA,NA,"State","State",NA,"IN.AP","IN-AP",784307,784239,0.999913299256541,462074.46875,2019-01-19
+"290","IND.3_1","IND","India","Arunachal Pradesh","Agence de la Frontière du Nord-E",NA,"State","State",NA,"IN.AR","IN-AR",79829,79829,1,4575.11962890625,2019-01-19
+"291","Z07.3_1","Z07","India","Arunachal Pradesh","Agence de la Frontière du Nord-E",NA,"State","State",NA,"IN.AR",NA,358232,358227,0.999986042564595,6049.71923828125,2019-01-19
+"292","IND.4_1","IND","India","Assam",NA,NA,"State","State",NA,"IN.AS","IN-AS",413093,413093,1,198505.078125,2019-01-19
+"293","IND.5_1","IND","India","Bihar",NA,NA,"State","State",NA,"IN.BR","IN-BR",491972,491972,1,664923.9375,2019-01-19
+"294","IND.6_1","IND","India","Chandigarh",NA,NA,"Union Territor","Union Territory",NA,"IN.CH","IN-CH",715,715,1,14244.7109375,2019-01-19
+"295","IND.7_1","IND","India","Chhattisgarh",NA,NA,"State","State",NA,"IN.CT","IN-CT",683434,683434,1,358094.28125,2019-01-19
+"296","IND.8_1","IND","India","Dadra and Nagar Haveli","DAdra et Nagar Haveli|Dadra e Na",NA,"Union Territor","Union Territory",NA,"IN.DN","IN-DN",2707,2707,1,8936.1279296875,2019-01-19
+"297","IND.9_1","IND","India","Daman and Diu",NA,NA,"Union Territor","Union Territory",NA,"IN.DD",NA,517,517,1,3856.48193359375,2019-01-19
+"298","IND.10_1","IND","India","Goa","Gôa",NA,"State","State",NA,"IN.GA","IN-GA",18511,18511,1,30895.83984375,2019-01-19
+"299","IND.11_1","IND","India","Gujarat","Goudjerate|Gujerat|Gujerate",NA,"State","State",NA,"IN.GJ","IN-GJ",948438,943840,0.995152028914911,840352.6875,2019-01-19
+"300","IND.12_1","IND","India","Haryana",NA,NA,"State","State",NA,"IN.HR","IN-HR",238563,238563,1,444896.40625,2019-01-19
+"301","IND.13_1","IND","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP","IN-HP",305442,304876,0.998146947702019,49490.04296875,2019-01-19
+"302","Z04.13_1","Z04","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP",NA,1867,1867,1,19.0353965759277,2019-01-19
+"303","Z09.13_1","Z09","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP",NA,667,667,1,1.18745386600494,2019-01-19
+"304","Z01.14_1","Z01","India","Jammu and Kashmir",NA,NA,"State","State",NA,"IN.JK",NA,587631,587094,0.999086161213415,131099.34375,2019-01-19
+"305","IND.15_1","IND","India","Jharkhand","Vananchal",NA,"State","State",NA,"IN.JH","IN-JH",411998,411998,1,310778.15625,2019-01-19
+"306","IND.16_1","IND","India","Karnataka","Maisur|Mysore",NA,"State","State",NA,"IN.KA","IN-KA",931411,931410,0.999998926360114,837951.375,2019-01-19
+"307","IND.17_1","IND","India","Kerala",NA,NA,"State","State",NA,"IN.KL","IN-KL",182580,182569,0.999939752437288,141124.046875,2019-01-19
+"308","IND.18_1","IND","India","Lakshadweep","Íles Laquedives|Laccadive|Minico",NA,"Union Territor","Union Territory",NA,"IN.LD","IN-LD",386,373,0.966321243523316,134.969741821289,2019-01-19
+"309","IND.19_1","IND","India","Madhya Pradesh",NA,NA,"State","State",NA,"IN.MP","IN-MP",1578698,1578696,0.999998733133253,892117.375,2019-01-19
+"310","IND.20_1","IND","India","Maharashtra",NA,NA,"State","State",NA,"IN.MH","IN-MH",1530770,1530745,0.999983668349915,1263243.75,2019-01-19
+"311","IND.21_1","IND","India","Manipur",NA,NA,"State","State",NA,"IN.MN","IN-MN",115951,115951,1,17695.740234375,2019-01-19
+"312","IND.22_1","IND","India","Meghalaya",NA,NA,"State","State",NA,"IN.ML","IN-ML",118207,118207,1,25852.056640625,2019-01-19
+"313","IND.23_1","IND","India","Mizoram",NA,NA,"State","State",NA,"IN.MZ","IN-MZ",109462,109462,1,3014.34790039062,2019-01-19
+"314","IND.24_1","IND","India","Nagaland",NA,NA,"State","State",NA,"IN.NL","IN-NL",87563,87563,1,11168.193359375,2019-01-19
+"315","IND.25_1","IND","India","NCT of Delhi",NA,NA,"Union Territor","Union Territory",NA,"IN.DL",NA,8295,8295,1,230228.296875,2019-01-19
+"316","IND.26_1","IND","India","Odisha",NA,NA,"State","State",NA,"IN.OR","IN-OR",781638,779292,0.996998610610027,376735.09375,2019-01-19
+"317","IND.27_1","IND","India","Puducherry","Pondicherry|Puduchcheri|Pondiché",NA,"Union Territor","Union Territory",NA,"IN.PY","IN-PY",3136,3136,1,9596.0859375,2019-01-19
+"318","IND.28_1","IND","India","Punjab",NA,NA,"State","State",NA,"IN.PB","IN-PB",275246,275246,1,420575.125,2019-01-19
+"319","IND.29_1","IND","India","Rajasthan","Greater Rajasthan|Rajputana",NA,"State","State",NA,"IN.RJ","IN-RJ",1792156,1792156,1,890836.875,2019-01-19
+"320","IND.30_1","IND","India","Sikkim",NA,NA,"State","State",NA,"IN.SK","IN-SK",37908,37699,0.994486651894059,4725.43603515625,2019-01-19
+"321","IND.31_1","IND","India","Tamil Nadu","Madras|Tamilnad",NA,"State","State",NA,"IN.TN","IN-TN",625500,625423,0.999876898481215,734906.5,2019-01-19
+"322","IND.32_1","IND","India","Telangana",NA,NA,"State","State",NA,"IN.TG","IN-TG",566486,566486,1,558527.125,2019-01-19
+"323","IND.33_1","IND","India","Tripura",NA,NA,"State","State",NA,"IN.TR","IN-TR",54962,54962,1,38788.7578125,2019-01-19
+"324","IND.34_1","IND","India","Uttar Pradesh","United Provinces",NA,"State","State",NA,"IN.UP","IN-UP",1268269,1268269,1,1788580.125,2019-01-19
+"325","IND.35_1","IND","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT","IN-UT",285617,283922,0.9940654792957,120625.5625,2019-01-19
+"326","Z05.35_1","Z05","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT",NA,1568,1568,1,0.0359164699912071,2019-01-19
+"327","Z09.35_1","Z09","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT",NA,5589,5589,1,2,2019-01-19
+"328","IND.36_1","IND","India","West Bengal","Bangla|Bengala Occidentale|Benga",NA,"State","State",NA,"IN.WB","IN-WB",445183,445182,0.999997753732735,582534.0625,2019-01-19
+"329","IND.1_1","IND","India","Andaman and Nicobar","Andaman & Nicobar Islands|Andama",NA,"Union Territor","Union Territory",NA,"IN.AN",NA,40747,40534,0.994772621297273,3088.06372070312,2020-01-19
+"330","IND.2_1","IND","India","Andhra Pradesh",NA,NA,"State","State",NA,"IN.AP","IN-AP",784307,784240,0.999914574267474,404609.90625,2020-01-19
+"331","IND.3_1","IND","India","Arunachal Pradesh","Agence de la Frontière du Nord-E",NA,"State","State",NA,"IN.AR","IN-AR",79829,79829,1,6426.0869140625,2020-01-19
+"332","Z07.3_1","Z07","India","Arunachal Pradesh","Agence de la Frontière du Nord-E",NA,"State","State",NA,"IN.AR",NA,358232,358231,0.999997208512919,5092.5654296875,2020-01-19
+"333","IND.4_1","IND","India","Assam",NA,NA,"State","State",NA,"IN.AS","IN-AS",413093,413093,1,172617.1875,2020-01-19
+"334","IND.5_1","IND","India","Bihar",NA,NA,"State","State",NA,"IN.BR","IN-BR",491972,491972,1,649912,2020-01-19
+"335","IND.6_1","IND","India","Chandigarh",NA,NA,"Union Territor","Union Territory",NA,"IN.CH","IN-CH",715,715,1,14299.486328125,2020-01-19
+"336","IND.7_1","IND","India","Chhattisgarh",NA,NA,"State","State",NA,"IN.CT","IN-CT",683434,683434,1,314610.28125,2020-01-19
+"337","IND.8_1","IND","India","Dadra and Nagar Haveli","DAdra et Nagar Haveli|Dadra e Na",NA,"Union Territor","Union Territory",NA,"IN.DN","IN-DN",2707,2707,1,8011.724609375,2020-01-19
+"338","IND.9_1","IND","India","Daman and Diu",NA,NA,"Union Territor","Union Territory",NA,"IN.DD",NA,517,517,1,3576.8828125,2020-01-19
+"339","IND.10_1","IND","India","Goa","Gôa",NA,"State","State",NA,"IN.GA","IN-GA",18511,18511,1,28559.794921875,2020-01-19
+"340","IND.11_1","IND","India","Gujarat","Goudjerate|Gujerat|Gujerate",NA,"State","State",NA,"IN.GJ","IN-GJ",948438,943833,0.99514464835867,760530.375,2020-01-19
+"341","IND.12_1","IND","India","Haryana",NA,NA,"State","State",NA,"IN.HR","IN-HR",238563,238563,1,415811.90625,2020-01-19
+"342","IND.13_1","IND","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP","IN-HP",305442,305205,0.99922407527452,33788.390625,2020-01-19
+"343","Z04.13_1","Z04","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP",NA,1867,1867,1,9.29203796386719,2020-01-19
+"344","Z09.13_1","Z09","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP",NA,667,667,1,0,2020-01-19
+"345","Z01.14_1","Z01","India","Jammu and Kashmir",NA,NA,"State","State",NA,"IN.JK",NA,587631,587474,0.999732825531669,114252.3359375,2020-01-19
+"346","IND.15_1","IND","India","Jharkhand","Vananchal",NA,"State","State",NA,"IN.JH","IN-JH",411998,411998,1,314748.9375,2020-01-19
+"347","IND.16_1","IND","India","Karnataka","Maisur|Mysore",NA,"State","State",NA,"IN.KA","IN-KA",931411,931409,0.999997852720228,795044.625,2020-01-19
+"348","IND.17_1","IND","India","Kerala",NA,NA,"State","State",NA,"IN.KL","IN-KL",182580,182568,0.999934275386132,138135.953125,2020-01-19
+"349","IND.18_1","IND","India","Lakshadweep","Íles Laquedives|Laccadive|Minico",NA,"Union Territor","Union Territory",NA,"IN.LD","IN-LD",386,374,0.968911917098446,131.564056396484,2020-01-19
+"350","IND.19_1","IND","India","Madhya Pradesh",NA,NA,"State","State",NA,"IN.MP","IN-MP",1578698,1578697,0.999999366566626,758910.8125,2020-01-19
+"351","IND.20_1","IND","India","Maharashtra",NA,NA,"State","State",NA,"IN.MH","IN-MH",1530770,1530750,0.999986934679932,1175994.625,2020-01-19
+"352","IND.21_1","IND","India","Manipur",NA,NA,"State","State",NA,"IN.MN","IN-MN",115951,115951,1,15727.740234375,2020-01-19
+"353","IND.22_1","IND","India","Meghalaya",NA,NA,"State","State",NA,"IN.ML","IN-ML",118207,118207,1,14808.28125,2020-01-19
+"354","IND.23_1","IND","India","Mizoram",NA,NA,"State","State",NA,"IN.MZ","IN-MZ",109462,109462,1,2680.345703125,2020-01-19
+"355","IND.24_1","IND","India","Nagaland",NA,NA,"State","State",NA,"IN.NL","IN-NL",87563,87563,1,10126.654296875,2020-01-19
+"356","IND.25_1","IND","India","NCT of Delhi",NA,NA,"Union Territor","Union Territory",NA,"IN.DL",NA,8295,8295,1,222244.703125,2020-01-19
+"357","IND.26_1","IND","India","Odisha",NA,NA,"State","State",NA,"IN.OR","IN-OR",781638,779284,0.996988375693096,346578.25,2020-01-19
+"358","IND.27_1","IND","India","Puducherry","Pondicherry|Puduchcheri|Pondiché",NA,"Union Territor","Union Territory",NA,"IN.PY","IN-PY",3136,3136,1,9079.455078125,2020-01-19
+"359","IND.28_1","IND","India","Punjab",NA,NA,"State","State",NA,"IN.PB","IN-PB",275246,275246,1,381216.71875,2020-01-19
+"360","IND.29_1","IND","India","Rajasthan","Greater Rajasthan|Rajputana",NA,"State","State",NA,"IN.RJ","IN-RJ",1792156,1792156,1,735610,2020-01-19
+"361","IND.30_1","IND","India","Sikkim",NA,NA,"State","State",NA,"IN.SK","IN-SK",37908,37749,0.995805634694524,3581.412109375,2020-01-19
+"362","IND.31_1","IND","India","Tamil Nadu","Madras|Tamilnad",NA,"State","State",NA,"IN.TN","IN-TN",625500,625426,0.999881694644285,696444.8125,2020-01-19
+"363","IND.32_1","IND","India","Telangana",NA,NA,"State","State",NA,"IN.TG","IN-TG",566486,566486,1,550406.0625,2020-01-19
+"364","IND.33_1","IND","India","Tripura",NA,NA,"State","State",NA,"IN.TR","IN-TR",54962,54962,1,35679.59375,2020-01-19
+"365","IND.34_1","IND","India","Uttar Pradesh","United Provinces",NA,"State","State",NA,"IN.UP","IN-UP",1268269,1268269,1,1534905.5,2020-01-19
+"366","IND.35_1","IND","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT","IN-UT",285617,284464,0.995963125444214,105257.59375,2020-01-19
+"367","Z05.35_1","Z05","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT",NA,1568,1568,1,0,2020-01-19
+"368","Z09.35_1","Z09","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT",NA,5589,5589,1,0,2020-01-19
+"369","IND.36_1","IND","India","West Bengal","Bangla|Bengala Occidentale|Benga",NA,"State","State",NA,"IN.WB","IN-WB",445183,445182,0.999997753732735,534321.1875,2020-01-19
+"370","IND.1_1","IND","India","Andaman and Nicobar","Andaman & Nicobar Islands|Andama",NA,"Union Territor","Union Territory",NA,"IN.AN",NA,40747,40535,0.994797162981324,2572.48461914062,2021-01-19
+"371","IND.2_1","IND","India","Andhra Pradesh",NA,NA,"State","State",NA,"IN.AP","IN-AP",784307,784245,0.99992094932214,414449.75,2021-01-19
+"372","IND.3_1","IND","India","Arunachal Pradesh","Agence de la Frontière du Nord-E",NA,"State","State",NA,"IN.AR","IN-AR",79829,79829,1,8043.64892578125,2021-01-19
+"373","Z07.3_1","Z07","India","Arunachal Pradesh","Agence de la Frontière du Nord-E",NA,"State","State",NA,"IN.AR",NA,358232,358206,0.999927421335894,6781.46484375,2021-01-19
+"374","IND.4_1","IND","India","Assam",NA,NA,"State","State",NA,"IN.AS","IN-AS",413093,413093,1,209370.734375,2021-01-19
+"375","IND.5_1","IND","India","Bihar",NA,NA,"State","State",NA,"IN.BR","IN-BR",491972,491972,1,722635.875,2021-01-19
+"376","IND.6_1","IND","India","Chandigarh",NA,NA,"Union Territor","Union Territory",NA,"IN.CH","IN-CH",715,715,1,15946.138671875,2021-01-19
+"377","IND.7_1","IND","India","Chhattisgarh",NA,NA,"State","State",NA,"IN.CT","IN-CT",683434,683434,1,365948.53125,2021-01-19
+"378","IND.8_1","IND","India","Dadra and Nagar Haveli","DAdra et Nagar Haveli|Dadra e Na",NA,"Union Territor","Union Territory",NA,"IN.DN","IN-DN",2707,2707,1,7610.49755859375,2021-01-19
+"379","IND.9_1","IND","India","Daman and Diu",NA,NA,"Union Territor","Union Territory",NA,"IN.DD",NA,517,517,1,3437.7548828125,2021-01-19
+"380","IND.10_1","IND","India","Goa","Gôa",NA,"State","State",NA,"IN.GA","IN-GA",18511,18511,1,28540.955078125,2021-01-19
+"381","IND.11_1","IND","India","Gujarat","Goudjerate|Gujerat|Gujerate",NA,"State","State",NA,"IN.GJ","IN-GJ",948438,943862,0.995175224948811,826597.9375,2021-01-19
+"382","IND.12_1","IND","India","Haryana",NA,NA,"State","State",NA,"IN.HR","IN-HR",238563,238563,1,463426.0625,2021-01-19
+"383","IND.13_1","IND","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP","IN-HP",305442,305204,0.999220801330531,44347.63671875,2021-01-19
+"384","Z04.13_1","Z04","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP",NA,1867,1864,0.998393144081414,15.0307970046997,2021-01-19
+"385","Z09.13_1","Z09","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP",NA,667,667,1,0,2021-01-19
+"386","Z01.14_1","Z01","India","Jammu and Kashmir",NA,NA,"State","State",NA,"IN.JK",NA,587631,587262,0.999372054912011,136230.5,2021-01-19
+"387","IND.15_1","IND","India","Jharkhand","Vananchal",NA,"State","State",NA,"IN.JH","IN-JH",411998,411998,1,342862.125,2021-01-19
+"388","IND.16_1","IND","India","Karnataka","Maisur|Mysore",NA,"State","State",NA,"IN.KA","IN-KA",931411,931410,0.999998926360114,831831.125,2021-01-19
+"389","IND.17_1","IND","India","Kerala",NA,NA,"State","State",NA,"IN.KL","IN-KL",182580,182567,0.999928798334976,150402.203125,2021-01-19
+"390","IND.18_1","IND","India","Lakshadweep","Íles Laquedives|Laccadive|Minico",NA,"Union Territor","Union Territory",NA,"IN.LD","IN-LD",386,373,0.966321243523316,133.644790649414,2021-01-19
+"391","IND.19_1","IND","India","Madhya Pradesh",NA,NA,"State","State",NA,"IN.MP","IN-MP",1578698,1578697,0.999999366566626,836041.6875,2021-01-19
+"392","IND.20_1","IND","India","Maharashtra",NA,NA,"State","State",NA,"IN.MH","IN-MH",1530770,1530745,0.999983668349915,1270603.25,2021-01-19
+"393","IND.21_1","IND","India","Manipur",NA,NA,"State","State",NA,"IN.MN","IN-MN",115951,115951,1,18093.087890625,2021-01-19
+"394","IND.22_1","IND","India","Meghalaya",NA,NA,"State","State",NA,"IN.ML","IN-ML",118207,118207,1,23591.20703125,2021-01-19
+"395","IND.23_1","IND","India","Mizoram",NA,NA,"State","State",NA,"IN.MZ","IN-MZ",109462,109462,1,2971.92163085938,2021-01-19
+"396","IND.24_1","IND","India","Nagaland",NA,NA,"State","State",NA,"IN.NL","IN-NL",87563,87563,1,11785.123046875,2021-01-19
+"397","IND.25_1","IND","India","NCT of Delhi",NA,NA,"Union Territor","Union Territory",NA,"IN.DL",NA,8295,8295,1,224036.953125,2021-01-19
+"398","IND.26_1","IND","India","Odisha",NA,NA,"State","State",NA,"IN.OR","IN-OR",781638,779284,0.996988375693096,406408.125,2021-01-19
+"399","IND.27_1","IND","India","Puducherry","Pondicherry|Puduchcheri|Pondiché",NA,"Union Territor","Union Territory",NA,"IN.PY","IN-PY",3136,3136,1,8675.640625,2021-01-19
+"400","IND.28_1","IND","India","Punjab",NA,NA,"State","State",NA,"IN.PB","IN-PB",275246,275246,1,471701.46875,2021-01-19
+"401","IND.29_1","IND","India","Rajasthan","Greater Rajasthan|Rajputana",NA,"State","State",NA,"IN.RJ","IN-RJ",1792156,1792156,1,822066.6875,2021-01-19
+"402","IND.30_1","IND","India","Sikkim",NA,NA,"State","State",NA,"IN.SK","IN-SK",37908,37686,0.994143716365939,4166.07080078125,2021-01-19
+"403","IND.31_1","IND","India","Tamil Nadu","Madras|Tamilnad",NA,"State","State",NA,"IN.TN","IN-TN",625500,625420,0.999872102318145,743920,2021-01-19
+"404","IND.32_1","IND","India","Telangana",NA,NA,"State","State",NA,"IN.TG","IN-TG",566486,566486,1,620460.5,2021-01-19
+"405","IND.33_1","IND","India","Tripura",NA,NA,"State","State",NA,"IN.TR","IN-TR",54962,54962,1,36591.9140625,2021-01-19
+"406","IND.34_1","IND","India","Uttar Pradesh","United Provinces",NA,"State","State",NA,"IN.UP","IN-UP",1268269,1268269,1,1702478.25,2021-01-19
+"407","IND.35_1","IND","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT","IN-UT",285617,284474,0.995998137365773,137076.265625,2021-01-19
+"408","Z05.35_1","Z05","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT",NA,1568,1568,1,0,2021-01-19
+"409","Z09.35_1","Z09","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT",NA,5589,5589,1,0.468216359615326,2021-01-19
+"410","IND.36_1","IND","India","West Bengal","Bangla|Bengala Occidentale|Benga",NA,"State","State",NA,"IN.WB","IN-WB",445183,445181,0.999995507465469,580291.5625,2021-01-19
+"411","IND.1_1","IND","India","Andaman and Nicobar","Andaman & Nicobar Islands|Andama",NA,"Union Territor","Union Territory",NA,"IN.AN",NA,40747,40531,0.994698996245122,2800.84521484375,2022-01-19
+"412","IND.2_1","IND","India","Andhra Pradesh",NA,NA,"State","State",NA,"IN.AP","IN-AP",784307,784238,0.999912024245608,584447.1875,2022-01-19
+"413","IND.3_1","IND","India","Arunachal Pradesh","Agence de la Frontière du Nord-E",NA,"State","State",NA,"IN.AR","IN-AR",79829,79829,1,9639.4892578125,2022-01-19
+"414","Z07.3_1","Z07","India","Arunachal Pradesh","Agence de la Frontière du Nord-E",NA,"State","State",NA,"IN.AR",NA,358232,358229,0.999991625538757,9750.2685546875,2022-01-19
+"415","IND.4_1","IND","India","Assam",NA,NA,"State","State",NA,"IN.AS","IN-AS",413093,413093,1,264263.25,2022-01-19
+"416","IND.5_1","IND","India","Bihar",NA,NA,"State","State",NA,"IN.BR","IN-BR",491972,491972,1,809120.375,2022-01-19
+"417","IND.6_1","IND","India","Chandigarh",NA,NA,"Union Territor","Union Territory",NA,"IN.CH","IN-CH",715,715,1,17123.5625,2022-01-19
+"418","IND.7_1","IND","India","Chhattisgarh",NA,NA,"State","State",NA,"IN.CT","IN-CT",683434,683434,1,474573.09375,2022-01-19
+"419","IND.8_1","IND","India","Dadra and Nagar Haveli","DAdra et Nagar Haveli|Dadra e Na",NA,"Union Territor","Union Territory",NA,"IN.DN","IN-DN",2707,2707,1,8914.541015625,2022-01-19
+"420","IND.9_1","IND","India","Daman and Diu",NA,NA,"Union Territor","Union Territory",NA,"IN.DD",NA,517,517,1,4098.2822265625,2022-01-19
+"421","IND.10_1","IND","India","Goa","Gôa",NA,"State","State",NA,"IN.GA","IN-GA",18511,18511,1,36271.48046875,2022-01-19
+"422","IND.11_1","IND","India","Gujarat","Goudjerate|Gujerat|Gujerate",NA,"State","State",NA,"IN.GJ","IN-GJ",948438,943839,0.995150974549733,1134693.25,2022-01-19
+"423","IND.12_1","IND","India","Haryana",NA,NA,"State","State",NA,"IN.HR","IN-HR",238563,238563,1,549460.3125,2022-01-19
+"424","IND.13_1","IND","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP","IN-HP",305442,305259,0.999400868249946,71802.6875,2022-01-19
+"425","Z04.13_1","Z04","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP",NA,1867,1867,1,29.5415954589844,2022-01-19
+"426","Z09.13_1","Z09","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP",NA,667,667,1,0.117358803749084,2022-01-19
+"427","Z01.14_1","Z01","India","Jammu and Kashmir",NA,NA,"State","State",NA,"IN.JK",NA,587631,587169,0.999213792328859,180073.03125,2022-01-19
+"428","IND.15_1","IND","India","Jharkhand","Vananchal",NA,"State","State",NA,"IN.JH","IN-JH",411998,411998,1,417896.25,2022-01-19
+"429","IND.16_1","IND","India","Karnataka","Maisur|Mysore",NA,"State","State",NA,"IN.KA","IN-KA",931411,931410,0.999998926360114,1081587.375,2022-01-19
+"430","IND.17_1","IND","India","Kerala",NA,NA,"State","State",NA,"IN.KL","IN-KL",182580,182572,0.999956183590755,199161.046875,2022-01-19
+"431","IND.18_1","IND","India","Lakshadweep","Íles Laquedives|Laccadive|Minico",NA,"Union Territor","Union Territory",NA,"IN.LD","IN-LD",386,373,0.966321243523316,159.131759643555,2022-01-19
+"432","IND.19_1","IND","India","Madhya Pradesh",NA,NA,"State","State",NA,"IN.MP","IN-MP",1578698,1578697,0.999999366566626,1236492.5,2022-01-19
+"433","IND.20_1","IND","India","Maharashtra",NA,NA,"State","State",NA,"IN.MH","IN-MH",1530770,1530746,0.999984321615919,1785881.25,2022-01-19
+"434","IND.21_1","IND","India","Manipur",NA,NA,"State","State",NA,"IN.MN","IN-MN",115951,115951,1,23244.0859375,2022-01-19
+"435","IND.22_1","IND","India","Meghalaya",NA,NA,"State","State",NA,"IN.ML","IN-ML",118207,118207,1,35164.3671875,2022-01-19
+"436","IND.23_1","IND","India","Mizoram",NA,NA,"State","State",NA,"IN.MZ","IN-MZ",109462,109462,1,4582.47607421875,2022-01-19
+"437","IND.24_1","IND","India","Nagaland",NA,NA,"State","State",NA,"IN.NL","IN-NL",87563,87563,1,16146.9892578125,2022-01-19
+"438","IND.25_1","IND","India","NCT of Delhi",NA,NA,"Union Territor","Union Territory",NA,"IN.DL",NA,8295,8295,1,238984.03125,2022-01-19
+"439","IND.26_1","IND","India","Odisha",NA,NA,"State","State",NA,"IN.OR","IN-OR",781638,779323,0.997038270913134,567774.875,2022-01-19
+"440","IND.27_1","IND","India","Puducherry","Pondicherry|Puduchcheri|Pondiché",NA,"Union Territor","Union Territory",NA,"IN.PY","IN-PY",3136,3136,1,10223.5791015625,2022-01-19
+"441","IND.28_1","IND","India","Punjab",NA,NA,"State","State",NA,"IN.PB","IN-PB",275246,275246,1,572819.25,2022-01-19
+"442","IND.29_1","IND","India","Rajasthan","Greater Rajasthan|Rajputana",NA,"State","State",NA,"IN.RJ","IN-RJ",1792156,1792156,1,1187128.125,2022-01-19
+"443","IND.30_1","IND","India","Sikkim",NA,NA,"State","State",NA,"IN.SK","IN-SK",37908,37629,0.992640075973409,6775.2705078125,2022-01-19
+"444","IND.31_1","IND","India","Tamil Nadu","Madras|Tamilnad",NA,"State","State",NA,"IN.TN","IN-TN",625500,625426,0.999881694644285,943581.5,2022-01-19
+"445","IND.32_1","IND","India","Telangana",NA,NA,"State","State",NA,"IN.TG","IN-TG",566486,566486,1,816265.375,2022-01-19
+"446","IND.33_1","IND","India","Tripura",NA,NA,"State","State",NA,"IN.TR","IN-TR",54962,54962,1,42388.63671875,2022-01-19
+"447","IND.34_1","IND","India","Uttar Pradesh","United Provinces",NA,"State","State",NA,"IN.UP","IN-UP",1268269,1268269,1,2075828.125,2022-01-19
+"448","IND.35_1","IND","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT","IN-UT",285617,284451,0.995917609946187,175893.109375,2022-01-19
+"449","Z05.35_1","Z05","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT",NA,1568,1568,1,0.0618288442492485,2022-01-19
+"450","Z09.35_1","Z09","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT",NA,5589,5589,1,0.0674396976828575,2022-01-19
+"451","IND.36_1","IND","India","West Bengal","Bangla|Bengala Occidentale|Benga",NA,"State","State",NA,"IN.WB","IN-WB",445183,445182,0.999997753732735,698744.9375,2022-01-19
+"452","IND.1_1","IND","India","Andaman and Nicobar","Andaman & Nicobar Islands|Andama",NA,"Union Territor","Union Territory",NA,"IN.AN",NA,40747,40534,0.994772621297273,3738.56665039062,2023-01-19
+"453","IND.2_1","IND","India","Andhra Pradesh",NA,NA,"State","State",NA,"IN.AP","IN-AP",784307,784241,0.999915849278408,731170.25,2023-01-19
+"454","IND.3_1","IND","India","Arunachal Pradesh","Agence de la Frontière du Nord-E",NA,"State","State",NA,"IN.AR","IN-AR",79829,79829,1,14879.3251953125,2023-01-19
+"455","Z07.3_1","Z07","India","Arunachal Pradesh","Agence de la Frontière du Nord-E",NA,"State","State",NA,"IN.AR",NA,358232,358200,0.999910672413408,26903.2734375,2023-01-19
+"456","IND.4_1","IND","India","Assam",NA,NA,"State","State",NA,"IN.AS","IN-AS",413093,413093,1,321897.6875,2023-01-19
+"457","IND.5_1","IND","India","Bihar",NA,NA,"State","State",NA,"IN.BR","IN-BR",491972,491972,1,860693.125,2023-01-19
+"458","IND.6_1","IND","India","Chandigarh",NA,NA,"Union Territor","Union Territory",NA,"IN.CH","IN-CH",715,715,1,18542.009765625,2023-01-19
+"459","IND.7_1","IND","India","Chhattisgarh",NA,NA,"State","State",NA,"IN.CT","IN-CT",683434,683434,1,576614,2023-01-19
+"460","IND.8_1","IND","India","Dadra and Nagar Haveli","DAdra et Nagar Haveli|Dadra e Na",NA,"Union Territor","Union Territory",NA,"IN.DN","IN-DN",2707,2707,1,9356.4541015625,2023-01-19
+"461","IND.9_1","IND","India","Daman and Diu",NA,NA,"Union Territor","Union Territory",NA,"IN.DD",NA,517,517,1,4970.90673828125,2023-01-19
+"462","IND.10_1","IND","India","Goa","Gôa",NA,"State","State",NA,"IN.GA","IN-GA",18511,18511,1,43961.7578125,2023-01-19
+"463","IND.11_1","IND","India","Gujarat","Goudjerate|Gujerat|Gujerate",NA,"State","State",NA,"IN.GJ","IN-GJ",948438,943837,0.995148865819379,1319936.5,2023-01-19
+"464","IND.12_1","IND","India","Haryana",NA,NA,"State","State",NA,"IN.HR","IN-HR",238563,238563,1,637581.1875,2023-01-19
+"465","IND.13_1","IND","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP","IN-HP",305442,305156,0.999063652019041,103925.3828125,2023-01-19
+"466","Z04.13_1","Z04","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP",NA,1867,1867,1,92.766487121582,2023-01-19
+"467","Z09.13_1","Z09","India","Himachal Pradesh",NA,NA,"Union Territor","Union Territory",NA,"IN.HP",NA,667,667,1,11.7028999328613,2023-01-19
+"468","Z01.14_1","Z01","India","Jammu and Kashmir",NA,NA,"State","State",NA,"IN.JK",NA,587631,587202,0.999269950019655,220571.921875,2023-01-19
+"469","IND.15_1","IND","India","Jharkhand","Vananchal",NA,"State","State",NA,"IN.JH","IN-JH",411998,411998,1,481068.28125,2023-01-19
+"470","IND.16_1","IND","India","Karnataka","Maisur|Mysore",NA,"State","State",NA,"IN.KA","IN-KA",931411,931410,0.999998926360114,1358085.625,2023-01-19
+"471","IND.17_1","IND","India","Kerala",NA,NA,"State","State",NA,"IN.KL","IN-KL",182580,182566,0.999923321283821,267031.4375,2023-01-19
+"472","IND.18_1","IND","India","Lakshadweep","Íles Laquedives|Laccadive|Minico",NA,"Union Territor","Union Territory",NA,"IN.LD","IN-LD",386,373,0.966321243523316,181.750442504883,2023-01-19
+"473","IND.19_1","IND","India","Madhya Pradesh",NA,NA,"State","State",NA,"IN.MP","IN-MP",1578698,1578694,0.999997466266506,1427157.75,2023-01-19
+"474","IND.20_1","IND","India","Maharashtra",NA,NA,"State","State",NA,"IN.MH","IN-MH",1530770,1530745,0.999983668349915,2071365.375,2023-01-19
+"475","IND.21_1","IND","India","Manipur",NA,NA,"State","State",NA,"IN.MN","IN-MN",115951,115951,1,31223.45703125,2023-01-19
+"476","IND.22_1","IND","India","Meghalaya",NA,NA,"State","State",NA,"IN.ML","IN-ML",118207,118207,1,46964.953125,2023-01-19
+"477","IND.23_1","IND","India","Mizoram",NA,NA,"State","State",NA,"IN.MZ","IN-MZ",109462,109462,1,8034.08935546875,2023-01-19
+"478","IND.24_1","IND","India","Nagaland",NA,NA,"State","State",NA,"IN.NL","IN-NL",87563,87563,1,28532.185546875,2023-01-19
+"479","IND.25_1","IND","India","NCT of Delhi",NA,NA,"Union Territor","Union Territory",NA,"IN.DL",NA,8295,8295,1,252453.75,2023-01-19
+"480","IND.26_1","IND","India","Odisha",NA,NA,"State","State",NA,"IN.OR","IN-OR",781638,779314,0.997026756631586,737292.5625,2023-01-19
+"481","IND.27_1","IND","India","Puducherry","Pondicherry|Puduchcheri|Pondiché",NA,"Union Territor","Union Territory",NA,"IN.PY","IN-PY",3136,3136,1,12028.9169921875,2023-01-19
+"482","IND.28_1","IND","India","Punjab",NA,NA,"State","State",NA,"IN.PB","IN-PB",275246,275246,1,644885.9375,2023-01-19
+"483","IND.29_1","IND","India","Rajasthan","Greater Rajasthan|Rajputana",NA,"State","State",NA,"IN.RJ","IN-RJ",1792156,1792156,1,1447584.875,2023-01-19
+"484","IND.30_1","IND","India","Sikkim",NA,NA,"State","State",NA,"IN.SK","IN-SK",37908,37652,0.993246808061623,8583.978515625,2023-01-19
+"485","IND.31_1","IND","India","Tamil Nadu","Madras|Tamilnad",NA,"State","State",NA,"IN.TN","IN-TN",625500,625421,0.999873701039169,1145891.25,2023-01-19
+"486","IND.32_1","IND","India","Telangana",NA,NA,"State","State",NA,"IN.TG","IN-TG",566486,566486,1,932101.125,2023-01-19
+"487","IND.33_1","IND","India","Tripura",NA,NA,"State","State",NA,"IN.TR","IN-TR",54962,54962,1,52770.6015625,2023-01-19
+"488","IND.34_1","IND","India","Uttar Pradesh","United Provinces",NA,"State","State",NA,"IN.UP","IN-UP",1268269,1268269,1,2283150.5,2023-01-19
+"489","IND.35_1","IND","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT","IN-UT",285617,284511,0.996127681475542,213145.484375,2023-01-19
+"490","Z05.35_1","Z05","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT",NA,1568,1568,1,15.8739557266235,2023-01-19
+"491","Z09.35_1","Z09","India","Uttarakhand","Uttarakhand",NA,"State","State",NA,"IN.UT",NA,5589,5589,1,51.3017349243164,2023-01-19
+"492","IND.36_1","IND","India","West Bengal","Bangla|Bengala Occidentale|Benga",NA,"State","State",NA,"IN.WB","IN-WB",445183,445181,0.999995507465469,777838.6875,2023-01-19
